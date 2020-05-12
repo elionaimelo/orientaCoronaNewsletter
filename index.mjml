@@ -1,0 +1,112 @@
+<mjml>
+  <mj-head>
+    <mj-title>OrientaCoronaRN</mj-title>
+    <mj-preview></mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section {
+        -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#E7E7E7" width="600px">
+    <mj-section full-width="full-width" background-color="#1f68c1" padding-bottom="0px">
+      <mj-column width="100%">
+        <mj-image src="lais-branco.png" alt="" align="center" width="150px" padding-bottom="50px"></mj-image>
+        <mj-image src="coronavirus-email.jpg" width="600px" alt="" padding="0px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding-top="0" padding-bottom="0px" css-class="body-section">
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-image src="orientacorona.png" alt="" align="center" width="150px" padding-bottom="20px"></mj-image>
+          <mj-text color="#637381" font-size="16px">O OrientaCoronaRN é um serviço digital que oferece um atendimento ágil e
+            direcionado com um questionário objetivo que, em casos suspeitos, vai lhe orientar
+            como agir e onde deve receber atendimento especializado. O sistema conta com
+            médicos que conversarão diretamente com você.</mj-text>
+          <mj-text color="#637381" font-size="16px">Seja mais um no enfrentamento à Covid-19. Ajude a desafogar o sistema de
+            saúde, use o App OrientaCoronaRN. Com todos juntos colaborando, essa pandemia vai
+            passar.</mj-text>
+
+          <mj-button width="200px" padding="20px" height="30px" font-size="17px" background-color="#F45E43" href="https://orientacorona.saude.rn.gov.br/">Saiba mais</mj-button>
+
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper full-width="full-width">
+      <mj-section>
+        <mj-column width="100%" padding="0px">
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0px" align="center">
+            <mj-social-element name="facebook" href="https://www.facebook.com/LAIS.HUOL"></mj-social-element>
+            <mj-social-element name="instagram" href="https://www.instagram.com/laishuol/"></mj-social-element>
+          </mj-social>
+        </mj-column>
+      </mj-section>
+       <mj-section padding-top="0" padding-bottom="0">
+        <mj-group>
+          <mj-column width="100%" padding-right="0px" >
+            <mj-text color="#637381" font-size="16px">Realização</mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+       <mj-section padding-top="0">
+        <mj-column width="20%">
+          <mj-image align="center" width="100px" src="lais.png" alt=""></mj-image>
+        </mj-column>
+        <mj-column width="20%">
+          <mj-image align="center" width="100px" src="ufrn.png" alt=""></mj-image>
+        </mj-column>
+        <mj-column width="20%">
+          <mj-image align="center" width="100px" src="digti.png" alt=""></mj-image>
+        </mj-column>
+        <mj-column width="20%">
+          <mj-image align="center" width="100px" src="navi.png" alt=""></mj-image>
+        </mj-column>
+        <mj-column width="20%">
+          <mj-image align="center" width="100px" src="digti.png" alt=""></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-group>
+          <mj-column width="100%" padding-right="0px" >
+            <mj-text color="#637381" font-size="16px">Parceiros</mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+       <mj-section padding-top="0">
+        <mj-column width="20%">
+          <mj-image align="center" width="100px" src="prefnatal.png" alt=""></mj-image>
+        </mj-column>
+        <mj-column width="20%">
+          <mj-image align="center" width="100px" src="governorn.png" alt=""></mj-image>
+        </mj-column>
+        <mj-column width="20%">
+          <mj-image align="center" width="100px" src="sedis.png" alt=""></mj-image>
+        </mj-column>
+        <mj-column width="20%">
+          <mj-image align="center" width="100px" src="nucleo.png" alt=""></mj-image>
+        </mj-column>
+        <mj-column width="20%">
+          <mj-image align="center" width="100px" src="huol.png" alt=""></mj-image>
+        </mj-column>
+      </mj-section>
+       <mj-section padding-top="0">
+        <mj-column width="20%">
+          <mj-image align="center" width="100px" src="ebserh.png" alt=""></mj-image>
+        </mj-column>
+        <mj-column width="20%">
+          <mj-image align="center" width="55px"src="sus.png" alt=""></mj-image>
+        </mj-column>
+        <mj-column width="20%">
+          <mj-image align="center" width="100px" src="min-saude.png" alt=""></mj-image>
+        </mj-column>
+
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
